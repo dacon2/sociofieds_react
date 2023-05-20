@@ -1,0 +1,41 @@
+
+.background-container{
+    content: "";
+    background-image: url('../../Pages/Home/Background/backgroundBg.jpeg');
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 56%;
+    /* width: 1000px;
+    height: 576px;  */
+    overflow: hidden ;
+    background: radial-gradient(circle, rgba(255,255,255,1) 5%, rgba(147,229,240,1) 100%);
+}
+
+/* @media (max-width:1012px){
+    .background-container{
+        content: "";
+        background-image: url("https://www.shopltk.com/static/img/2x.8c9a2bf.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 70%;
+        width: 100%;
+        height: 576px;
+        overflow: hidden ;
+    }
+} */
+
+/* new image after  */
+/* https://www.shopltk.com/static/img/2x.5729134.jpg */
+
+/* @media (max-width:620px){
+    .background-container{
+        content: "";
+        background-image: url("https://www.shopltk.com/static/img/2x.5729134.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 70%;
+        width: 100%;
+        height: 576px;
+        overflow: hidden ;
+    }
+} */

@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish', sans-serif;
+    scroll-behavior: smooth !important;
+}
+body {
+    overflow: overlay;
+}
+::-webkit-scrollbar{
+    width: 0.6rem;
+    height: auto;
+    opacity: 0.75;
+}
+
+::-webkit-scrollbar-track{
+    width: 10rem;
+    height: auto;
+
+}
+
+::-webkit-scrollbar-thumb{
+    width: 3rem;
+    height: auto;
+    border-radius: 4rem;
+    background-color: rgb(255, 87,87);
+    display: block;
+    opacity: 0.5;
+}

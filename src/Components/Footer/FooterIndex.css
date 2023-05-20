@@ -1,0 +1,12 @@
+.diabledButton{
+    cursor: none !important;
+    color:grey;
+}
+.diabledButton:hover{
+    color: transparent;
+    text-decoration: none !important;
+}
+.for-footer-badges{
+    margin: 0rem 3.8rem;
+    width: 30% !important;
+}

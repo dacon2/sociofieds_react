@@ -1,0 +1,30 @@
+:root{
+    --primarybg :linear-gradient(270.12deg,#fff -37.73%,#ff6061 0.95%);
+    --boxShadow: 0 1px 10px rgb(124, 124, 124);
+    --Navshadow:0 1px 10px rgb(178, 175, 175);
+    --text:#fff !important;
+    --blackBg:rgb(19,19,19);
+    --backGround1:#eaf7f8;
+    --backShadow--:-17px 15px 30px 0px rgba(0,0,0,0.1);
+    --dividerColor:red;
+    --fontfamily: 'Mulish', sans-serif;
+    --mainTxt:rgb(254,87,87);
+    --mainBg:linear-gradient(169deg, rgba(251,141,141,1) 0%, rgba(255,208,208,1) 0%, rgba(255,189,189,1) 5%, rgba(255,29,28,1) 39%, rgba(255,45,45,1) 67%, rgba(255,131,131,1) 92%, rgba(245,128,128,1) 95%);
+    --btnColor:rgb(68, 68, 68);
+    --backGMain:#ff5757;
+    --How-does-it-work-color:rgb(254, 241, 241);
+    --arrowColor : #9e9a9a;
+    --shadowButton:rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px;
+    --sliderButton : linear-gradient(90deg, rgba(250,64,64,1) 100%, rgba(255,97,97,1) 100%);
+    --backGround3dGradient : linear-gradient(to right, #f2709c, #ff9472);
+}
+
+/* custom font-family */
+@font-face {
+    font-family: 'playlistscriptwebfont';
+    src: 
+    url("../font/playlist-script-webfont.otf") format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+

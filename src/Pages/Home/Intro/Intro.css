@@ -1,0 +1,54 @@
+.BackGroundIntro{
+    background-image: url('./sociofiedsWeb.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* padding: 2rem; */
+}
+
+.BackGroundIntro1{
+    background-image: url('./bigIntro.png');
+    background-repeat: no-repeat;
+    background-size: 193%;
+    background-position: center;
+}
+
+.BackGroundIntro1-second{
+    background-image: url('./Shop\ Now_2.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.BackGroundIntro2{
+    background-image: url('./tab_Image_modified.png');
+    background-repeat: no-repeat;
+    background-size: 687%;
+    background-position: center;
+}
+
+.BackGroundIntro3{
+    background-image: url('./phoneImage.png');
+    background-repeat: no-repeat;
+    background-size: 216%;
+    background-position: center;
+}
+
+.for-badges{
+    margin: 0rem 1.8rem;
+    width: 30%;
+}
+
+@media screen and (max-width:900px) {
+    .for-badges{
+        margin: 0rem 1.8rem;
+        width: 38%;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .for-badges{
+        margin: 0rem 1.8rem;
+        width: 33%;
+    }
+}
